@@ -20,7 +20,7 @@ $ cd tribute-page/
 ```
 
 ## ⚙️ Usage
-* Open the `index.html` file.
+1. Open the `index.html` file.
 
 ## 👤 Author
 * **GitHub: [@rhenangarcia](https://github.com/rhenangarcia)**
